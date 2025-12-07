@@ -34,3 +34,10 @@ Destination directory missing
 Problems copying a file
 
 Incorrect number of arguments
+
+================================================================
+
+Output screenshot:
+
+<img width="575" height="243" alt="image" src="https://github.com/user-attachments/assets/bb070dd7-616c-4e4e-92d9-4502ca9e2f50" />
+

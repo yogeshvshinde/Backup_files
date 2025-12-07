@@ -12,20 +12,20 @@ Performing regular backups of important files :
 
 How It Works:
 
-✔ Uses command-line arguments
+-> Uses command-line arguments
 python backup.py /path/source /path/destination
 
-✔ Copies all files
+-> Copies all files
 
 Uses shutil.copy2() which preserves metadata like file timestamps.
 
-✔ Avoids overwriting
+-> Avoids overwriting
 
 If a file already exists, it creates a name like:
 
 report.txt → report_20250214_153045.txt
 
-✔ Error Handling Included
+-> Error Handling Included
 
 Source directory missing
 
